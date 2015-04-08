@@ -1,0 +1,6 @@
+FILE QUARANTINED
+
+Microsoft Forefront Protection for Exchange Server removed a file since it was found to match a filter.
+File name: "winmail.dat->activator-developer-stats.tar.gz->->activator-developer-stats/activator.bat"
+Filter name: "FILE FILTER= Files by Extension: *.bat"
+Server: "MSXHCSNSPRD11"
